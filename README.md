@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋,I'm Nguyen Xuan Dung
 
 <!--
 **GnuD2k4/GnuD2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
