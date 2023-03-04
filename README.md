@@ -1,5 +1,5 @@
 
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg">
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Dung</h1>
 <p align="center">
   <h3 align="center">A Information Technology Students In VietNam</h3>
