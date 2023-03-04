@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **BackEnd**
 
-<br />
 # Project Showcase
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
